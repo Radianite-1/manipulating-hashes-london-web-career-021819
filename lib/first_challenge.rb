@@ -22,7 +22,7 @@ def first_challenge
         end
         
         if flavor == "strawberry"
-          data.delete_if { |ice
+          data.delete_if { |ice_cream| 
         end
       end
     end
