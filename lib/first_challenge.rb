@@ -18,7 +18,7 @@ def first_challenge
     data.each do |attribute, value|
       attribute.each do |value|
         
-        if value 
+        if value == 
       
 
 
