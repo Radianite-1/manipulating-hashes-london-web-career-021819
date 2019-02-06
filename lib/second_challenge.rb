@@ -14,7 +14,7 @@ def second_challenge
     
     value.each do |attributes|
       
-      attributes << groceryArray
+      attributes >> groceryArray
   
     end
     
