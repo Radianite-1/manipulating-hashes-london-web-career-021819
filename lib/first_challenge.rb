@@ -14,7 +14,7 @@ def first_challenge
   }
 
   #your code here
-  contact
+  contacts.each 
 
 
   #remember to return your newly altered contacts hash!
