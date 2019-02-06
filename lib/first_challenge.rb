@@ -19,6 +19,7 @@ def first_challenge
       attribute.each do |value|
         
         if value == "strawberry"
+          
       
 
 
