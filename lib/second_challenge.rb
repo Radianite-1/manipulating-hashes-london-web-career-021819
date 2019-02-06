@@ -7,9 +7,17 @@ def second_challenge
   }
 
   #code your solution here!
+  
+  groceryArray = []
 
  groceries.each do |attribute, value|
      
-  attribute.each 
+  attribute.each do |value|
+    
+    value << groceryArray
+    
+  end
+  
+end
 
 end
