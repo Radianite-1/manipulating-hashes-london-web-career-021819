@@ -8,13 +8,7 @@ def second_challenge
 
   #code your solution here!
 
-groceries.values.flatter
+groceries.values
   
-    end
-    
-  end
-    
-groceries
 
 end
-
