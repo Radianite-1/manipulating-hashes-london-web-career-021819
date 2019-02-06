@@ -8,7 +8,7 @@ def second_challenge
 
   #code your solution here!
 
-groceryArray = groceries.map{ |item| 
+groceryArray = groceries.map{ |item| groceries.values
   
 
 end
