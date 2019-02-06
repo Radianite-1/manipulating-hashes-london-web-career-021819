@@ -22,7 +22,7 @@ def first_challenge
         end
         
         if flavor == "strawberry"
-          data
+          data.delete_if
         end
       end
     end
