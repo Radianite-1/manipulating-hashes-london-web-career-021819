@@ -12,6 +12,9 @@ groceries.values.flatter
   
     end
     
+  end
+    
 groceries
 
 end
+
