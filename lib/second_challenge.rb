@@ -10,6 +10,6 @@ def second_challenge
 
  groceries.each do |attribute, value|
      
-  value.each 
+  attribute.each 
 
 end
