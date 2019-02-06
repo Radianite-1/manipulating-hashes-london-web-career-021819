@@ -21,7 +21,7 @@ def first_challenge
        value.each do |flavor|
         end
         
-        if |flavor| == "strawberry"
+        if flavor == "strawberry"
           :favorite_icecream_flavors.delete("strawberry")
         end
       end
