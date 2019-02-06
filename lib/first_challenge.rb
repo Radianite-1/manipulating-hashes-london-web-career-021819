@@ -23,10 +23,10 @@ def first_challenge
         
         if flavor == "strawberry"
           :favorite_icecream_flavors.delete("strawberry")
+        end
       end
     end
-  end
-      
+ end     
 
 return contacts
   #remember to return your newly altered contacts hash!
