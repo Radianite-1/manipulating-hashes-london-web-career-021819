@@ -22,7 +22,7 @@ def first_challenge
         end
         
         if flavor == "strawberry"
-          :favorite_icecream_flavors.delete("strawberry")
+          data
         end
       end
     end
