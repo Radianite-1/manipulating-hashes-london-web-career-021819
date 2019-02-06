@@ -20,4 +20,6 @@ def second_challenge
   
 end
 
+groceryArray
+
 end
